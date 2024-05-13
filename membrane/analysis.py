@@ -8,8 +8,8 @@ print('Analysis module loaded')
 
 
 class InterdigitationAnalysis:
-    def __init__(self, top_file, traj_file, lipids, NL, water):
-        self.u = mda.Universe(top_file, traj_file)
+    def __init__(self, universe, lipids, NL, water):
+        self.u = universe
         self.lipids = lipids
         self.NL = NL
         self.water = water

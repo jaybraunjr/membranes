@@ -1,0 +1,316 @@
+RESI TRIO         0.00 !        Triolein
+!
+GROUP                    !             				    H18C            
+ATOM C118 CD33A   -0.177  ALPHA -2.051  THOLE 1.300 !               |              
+ATOM H18A HDA3A    0.059 !    				     H18A---C118--H18B     
+ATOM H18B HDA3A    0.059 !        			            |              
+ATOM H18C HDA3A    0.059 !              		            |              
+GROUP                    !             				    |              
+ATOM C117 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H17A HDA2A    0.078 !     				     H17A---C117--H17B     
+ATOM H17B HDA2A    0.078 !         			            |              
+GROUP                    !           				    |              
+ATOM C116 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H16A HDA2A    0.078 !    				     H16A---C116--H16B     
+ATOM H16B HDA2A    0.078 !           				    |              
+GROUP                    !           				    |              
+ATOM C115 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H15A HDA2A    0.078 !    				     H15A---C115--H15B     
+ATOM H15B HDA2A    0.078 !          			            |              
+GROUP                    !            				    |              
+ATOM C114 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H14A HDA2A    0.078 !   				     H14A---C114--H14B     
+ATOM H14B HDA2A    0.078 !          			            |              
+GROUP                    !         			            |              
+ATOM C113 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H13A HDA2A    0.078 !  			             H13A---C113--H13B     
+ATOM H13B HDA2A    0.078 !     			 	            |              
+GROUP                    !          			            |              
+ATOM C112 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H12A HDA2A    0.078 !   				     H12A---C112--H12B     
+ATOM H12B HDA2A    0.078 !         			            |              
+GROUP                    !         			            |              
+ATOM C111 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H11A HDA2A    0.078 !    				     H11A---C111--H11B     
+ATOM H11B HDA2A    0.078 !          			            |              
+GROUP                    !           				    |              
+ATOM C110 CD2C1A  -0.189  ALPHA -1.5583 THOLE 0.7778 !              |              
+ATOM H10A HD2C1A   0.103 !  				    H10A ---C110            
+GROUP                    !            				    ||  (CIS)      
+ATOM C19  CD2C1A  -0.189  ALPHA -1.5583 THOLE 0.7778 !              ||             
+ATOM H9A  HD2C1A   0.103 !  				      H9A---C19             
+GROUP                    !           				    |              
+ATOM C18  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H8A  HDA2A    0.078 !    				     H8A ---C18---H8B      
+ATOM H8B  HDA2A    0.078 !     				            |              
+GROUP                    !           				    |              
+ATOM C17  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H7A  HDA2A    0.078 !    				     H7A ---C17---H7B      
+ATOM H7B  HDA2A    0.078 !        			            |              
+GROUP                    !           			            |              
+ATOM C16  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H6A  HDA2A    0.078 !     				     H6A ---C16---H6B      
+ATOM H6B  HDA2A    0.078 !      			            |              
+GROUP                    !           				    |              
+ATOM C15  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H5A  HDA2A    0.078 !    				     H5A ---C15---H5B      
+ATOM H5B  HDA2A    0.078 !       			            |              
+GROUP                    !         			            |              
+ATOM C14  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H4A  HDA2A    0.078 !    				     H4A ---C14---H4B      
+ATOM H4B  HDA2A    0.078 !        			            |              
+GROUP                    !             				    |                   
+ATOM C13  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              
+ATOM H3A  HDA2A    0.078 !    				     H3A ---C13---H3B      
+ATOM H3B  HDA2A    0.078 !           				    |              
+GROUP                    !          			            |       
+ATOM C1   CD32C    0.045  ALPHA -1.873  THOLE 0.390 !               |
+ATOM HA   HDA2A    0.116 !    				      H2A---C12---H2B
+ATOM HB   HDA2A    0.116 !          			            |      
+ATOM O11  OD30C   -0.520  ALPHA -0.901  THOLE 0.181 !               |        
+ATOM C11  CD2O3A   0.543  ALPHA -1.415  THOLE 1.663 !         O12 = C11 
+ATOM O12  OD2C3A   0.000  ALPHA -0.894  THOLE 0.531 !                \      
+ATOM C12  CD32C   -0.188  ALPHA -1.912  THOLE 0.386 !                 O11
+ATOM H2A  HDA2A    0.069 !     		 	                      |     
+ATOM H2B  HDA2A    0.069 !     		        	         HA---C1---HB  
+ATOM LP1A LPD     -0.297  ! 
+ATOM LP1B LPD     -0.235  !                                    |              | 
+ATOM LPMA LPD     -0.119  ! 
+ATOM LPMB LPD     -0.119  !
+GROUP                    !            				      |
+ATOM C2   CD31C    0.161  ALPHA -1.873  THOLE 0.390 !            HS---C2--------------
+ATOM HS   HDA1A    0.116 !       			              | beta1        |
+ATOM O21  OD30C    0.000  ALPHA -0.724  THOLE 0.587 !            O22  O21          theta3
+ATOM C21  CD2O3A   0.543  ALPHA -1.415  THOLE 1.663 !             \\ /  beta2        |
+ATOM O22  OD2C3A   0.000  ALPHA -0.894  THOLE 0.531 !               C21              |
+ATOM C22  CD32C   -0.188  ALPHA -1.912  THOLE 0.386 !               |   beta3        |
+ATOM H2R  HDA2A    0.069 !    				      H2R---C22---H2S        |
+ATOM H2S  HDA2A    0.069 !            				    |                |
+ATOM LP1C LPD     -0.297  ! 
+ATOM LP1D LPD     -0.235  !                                    |              | 
+ATOM LPMC LPD     -0.119  ! 
+ATOM LPMD LPD     -0.173  !
+GROUP                    !          			            |    beta4       |
+ATOM C3   CD32C    0.045  ALPHA -1.873  THOLE 0.390 !               |                |
+ATOM HX   HDA2A    0.116 !          			            |           HX---C3---HY
+ATOM HY   HDA2A    0.116 !          			            |                |   gamma1
+ATOM O31  OD30C    0.000  ALPHA -0.724  THOLE 0.587 !               |           O32  O31
+ATOM C31  CD2O3A   0.543  ALPHA -1.415  THOLE 1.663 !               |            \\ /    gamma2
+ATOM O32  OD2C3A   0.000  ALPHA -0.894  THOLE 0.531 !               |              C31
+ATOM C32  CD32C   -0.188  ALPHA -1.912  THOLE 0.386 !               |              |     gamma3
+ATOM H2X  HDA2A    0.069 !      			            |        H2X---C32---H2Y
+ATOM H2Y  HDA2A    0.069 !               			    |              |
+!ATOM LP1E LPD     -0.297  ! 
+!ATOM LP1F LPD     -0.235  !                                    |              | 
+!ATOM LPME LPD     -0.119  ! 
+!ATOM LPMF LPD     -0.119  !
+GROUP                    !            				    |              |      gamma4
+ATOM C23  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H3R  HDA2A    0.078 !    				     H3R ---C23---H3S      |
+ATOM H3S  HDA2A    0.078 !        			            |              |
+GROUP                    !           				    |              |
+ATOM C24  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H4R  HDA2A    0.078 !     				     H4R ---C24---H4S      |
+ATOM H4S  HDA2A    0.078 !          			            |              |
+GROUP                    !        			            |              |
+ATOM C25  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H5R  HDA2A    0.078 !    				     H5R ---C25---H5S      |
+ATOM H5S  HDA2A    0.078 !        			            |              |
+GROUP                    !           				    |              |
+ATOM C26  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H6R  HDA2A    0.078 !  			             H6R ---C26---H6S      |
+ATOM H6S  HDA2A    0.078 !       			            |              |
+GROUP                    !           				    |              |
+ATOM C27  CD32A    -0.18  !           				    |              |
+ATOM H7R  HDA2A    0.078 !    				     H7R ---C27---H7S      |
+ATOM H7S  HDA2A    0.078 !             				    |              |
+GROUP                    !                                          |              |
+ATOM C28  CD32A    0.034  ALPHA -1.6744 THOLE 0.8616 !              |              |
+ATOM H8R  HDA2A    0.026 !    				     H8R ---C28---H8S      |
+ATOM H8S  HDA2A    0.026 !      			            |              |
+GROUP                    !             				    |              |
+ATOM C29  CD2C1A  -0.189  ALPHA -1.5583 THOLE 0.7778 !              |              |
+ATOM H9R  HD2C1A   0.103 !    				     H9R ---C29            |
+GROUP                    !          			            ||  (CIS)      |
+ATOM C210 CD2C1A  -0.189  ALPHA -1.5583 THOLE 0.7778 !              ||             |
+ATOM H10R HD2C1A   0.103 !     				     H10R---C210           |
+GROUP                    !            				    |              |
+ATOM C211 CD32A    0.034  ALPHA -1.6744 THOLE 0.8616 !              |              |
+ATOM H11R HDA2A    0.026 !     				     H11R---C211--H11S     |
+ATOM H11S HDA2A    0.026 !            				    |              |
+GROUP                    !           				    |              |
+ATOM C212 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H12R HDA2A    0.078 !    				     H12R---C212--H12S     |
+ATOM H12S HDA2A    0.078 !            				    |              |
+GROUP                    !         			            |              |
+ATOM C213 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H13R HDA2A    0.078 !   				     H13R---C213--H13S     |
+ATOM H13S HDA2A    0.078 !            				    |              |
+GROUP                    !             				    |              |
+ATOM C214 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H14R HDA2A    0.078 !    				     H14R---C214--H14S     |
+ATOM H14S HDA2A    0.078 !           				    |              |
+GROUP                  !          			            |              |
+ATOM C215 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H15R HDA2A    0.078 !    				     H15R---C215--H15S     |
+ATOM H15S HDA2A    0.078 !         			            |              |
+GROUP                    !             				    |              |
+ATOM C216 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H16R HDA2A    0.078 !     				     H16R---C216--H16S     |
+ATOM H16S HDA2A    0.078 !       			            |              |
+GROUP                    !         			            |              |
+ATOM C217 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !               |              |
+ATOM H17R HDA2A    0.078 !    				     H17R---C217--H17S     |
+ATOM H17S HDA2A    0.078 !           				    |              |
+GROUP                    !            				    |              |
+ATOM C218 CD33A   -0.177  ALPHA -2.051  THOLE 1.300 !               |              |
+ATOM H18R HDA3A    0.059 !     				     H18R---C218--H18S     |
+ATOM H18S HDA3A    0.059 !         			            |              |
+ATOM H18T HDA3A    0.059 !       			            H18T           |
+GROUP                    !          			                           |
+ATOM C33  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H3X  HDA2A    0.078 !                  			            H3X ---C33---H3Y
+ATOM H3Y  HDA2A    0.078 !               			                   |
+GROUP                    !                 			                   |
+ATOM C34  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H4X  HDA2A    0.078 !                  			            H4X ---C34---H4Y
+ATOM H4Y  HDA2A    0.078 !                     				           |
+GROUP                    !                    				           |
+ATOM C35  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H5X  HDA2A    0.078 !                			            H5X ---C35---H5Y
+ATOM H5Y  HDA2A    0.078 !                     				           |
+GROUP                    !                     			 	           |
+ATOM C36  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H6X  HDA2A    0.078 !                  			            H6X ---C36---H6Y
+ATOM H6Y  HDA2A    0.078 !                      			           |
+GROUP                    !                     				           |
+ATOM C37  CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H7X  HDA2A    0.078 !                    				    H7X ---C37---H7Y
+ATOM H7Y  HDA2A    0.078 !                     				           |
+GROUP                    !                          			           |
+ATOM C38  CD32A    0.034  ALPHA -1.6744 THOLE 0.8616 !                             |
+ATOM H8X  HDA2A    0.026 !                  			            H8X ---C38---H8Y
+ATOM H8Y  HDA2A    0.026 !                  			                   |
+GROUP                    !                   				           |
+ATOM C39  CD2C1A  -0.189  ALPHA -1.5583 THOLE 0.7778 !                             |
+ATOM H9X  HD2C1A   0.103 !              			            H9X ---C39
+GROUP                    !                   				           ||
+ATOM C310 CD2C1A  -0.189  ALPHA -1.5583 THOLE 0.7778 !                             ||
+ATOM H10X HD2C1A   0.103 !                 			            H10X---C310
+GROUP                    !                  			                   |
+ATOM C311 CD32A    0.034  ALPHA -1.6744 THOLE 0.8616 !                             |
+ATOM H11X HDA2A    0.026 !                 			            H11X---C311--H11Y
+ATOM H11Y HDA2A    0.026 !                         			           |
+GROUP                    !                           			           |
+ATOM C312 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H12X HDA2A    0.078 !                   				    H12X---C312--H12Y
+ATOM H12Y HDA2A    0.078 !                      			           |
+GROUP                    !                     				           |
+ATOM C313 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H13X HDA2A    0.078 !                 			            H13X---C313--H13Y
+ATOM H13Y HDA2A    0.078 !                         			           |
+GROUP                    !                       			           |
+ATOM C314 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H14X HDA2A    0.078 !                  			            H14X---C314--H14Y
+ATOM H14Y HDA2A    0.078 !                     				           |
+GROUP                    !                     				           |
+ATOM C315 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H15X HDA2A    0.078 !                   				    H15X---C315--H15Y
+ATOM H15Y HDA2A    0.078 !                     				           |
+GROUP                    !                   				           |
+ATOM C316 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H16X HDA2A    0.078 !                   				    H16X---C316--H16Y
+ATOM H16Y HDA2A    0.078 !                    				           |
+GROUP                    !                      			           |
+ATOM C317 CD32A   -0.156  ALPHA -1.660  THOLE 1.300 !                              |
+ATOM H17X HDA2A    0.078 !                  			            H17X---C317--H17Y
+ATOM H17Y HDA2A    0.078 !                        			           |
+GROUP                    !                    				           |
+ATOM C318 CD33A   -0.177   ALPHA -2.051  THOLE 1.300 !                             |
+ATOM H18X HDA3A    0.059 !                  		    	            H18X---C318--H18Y
+ATOM H18Y HDA3A    0.059 !                       			           |
+ATOM H18Z HDA3A    0.059 !                     				           H18Z
+ 
+
+! Glycerol Backbone
+BOND  C1   HA        C1    HB       C1   C2        
+BOND  C2   HS        C2    C3       C2   O21
+BOND  C3   HX        C3    HY       C3   O31
+BOND  C1   O11
+! Chain from C1
+BOND  O11  C11
+BOND  C11  C12
+DOUBLE  C11  O12
+BOND  C12  H2A       C12  H2B       C12  C13
+BOND  C13  H3A       C13  H3B       C13  C14
+BOND  C14  H4A       C14  H4B       C14  C15
+BOND  C15  H5A       C15  H5B       C15  C16
+BOND  C16  H6A       C16  H6B       C16  C17
+BOND  C17  H7A       C17  H7B       C17  C18
+BOND  C18  H8A       C18  H8B       C18  C19
+BOND  C19  H9A       
+DOUBLE  C19 C110
+BOND  C110 H10A      C110 C111
+BOND  C111 H11A      C111 H11B      C111 C112
+BOND  C112 H12A      C112 H12B      C112 C113
+BOND  C113 H13A      C113 H13B      C113 C114
+BOND  C114 H14A      C114 H14B      C114 C115
+BOND  C115 H15A      C115 H15B      C115 C116
+BOND  C116 H16A      C116 H16B      C116 C117
+BOND  C117 H17A      C117 H17B      C117 C118
+BOND  C118 H18A      C118 H18B      C118 H18C
+! Chain from C2
+BOND  O21  C21
+BOND  C21  C22
+DOUBLE  C21  O22
+BOND  C22  H2R       C22  H2S       C22  C23
+BOND  C23  H3R       C23  H3S       C23  C24
+BOND  C24  H4R       C24  H4S       C24  C25
+BOND  C25  H5R       C25  H5S       C25  C26
+BOND  C26  H6R       C26  H6S       C26  C27
+BOND  C27  H7R       C27  H7S       C27  C28
+BOND  C28  H8R       C28  H8S       C28  C29
+BOND  C29  H9R       
+DOUBLE  C29 C210
+BOND  C210 H10R      C210 C211
+BOND  C211 H11R      C211 H11S      C211 C212
+BOND  C212 H12R      C212 H12S      C212 C213
+BOND  C213 H13R      C213 H13S      C213 C214
+BOND  C214 H14R      C214 H14S      C214 C215
+BOND  C215 H15R      C215 H15S      C215 C216
+BOND  C216 H16R      C216 H16S      C216 C217
+BOND  C217 H17R      C217 H17S      C217 C218
+BOND  C218 H18R      C218 H18S      C218 H18T
+! Chain From C3
+BOND  O31  C31
+BOND  C31  C32
+DOUBLE  C31  O32
+BOND  C32  H2X       C32  H2Y       C32  C33
+BOND  C33  H3X       C33  H3Y       C33  C34
+BOND  C34  H4X       C34  H4Y       C34  C35
+BOND  C35  H5X       C35  H5Y       C35  C36
+BOND  C36  H6X       C36  H6Y       C36  C37
+BOND  C37  H7X       C37  H7Y       C37  C38
+BOND  C38  H8X       C38  H8Y       C38  C39
+BOND  C39  H9X 
+DOUBLE C39 C310
+BOND  C310 H10X      C310 C311
+BOND  C311 H11X      C311 H11Y      C311 C312
+BOND  C312 H12X      C312 H12Y      C312 C313
+BOND  C313 H13X      C313 H13Y      C313 C314
+BOND  C314 H14X      C314 H14Y      C314 C315
+BOND  C315 H15X      C315 H15Y      C315 C316
+BOND  C316 H16X      C316 H16Y      C316 C317
+BOND  C317 H17X      C317 H17Y      C317 C318
+BOND  C318 H18X      C318 H18Y      C318 H18Z
+
+IMPR C11 O11 C12 O12   C21 O21 C22 O22    C31 O31 C32 O32
+
+LONEPAIR relative LP1A O22 C21 C22 distance 0.30 angle 91.0 dihe   0.0
+LONEPAIR relative LP1B O22 C21 C22 distance 0.30 angle 91.0 dihe 180.0
+LONEPAIR relative LP1C O32 C31 C32 distance 0.30 angle 91.0 dihe   0.0
+LONEPAIR relative LP1D O32 C31 C32 distance 0.30 angle 91.0 dihe 180.0
+LONEPAIR relative LPMA O21 C21 C2  distance 0.35 angle 110.9 dihe  91.0
+LONEPAIR relative LPMB O21 C21 C2  distance 0.35 angle 110.9 dihe 269.0
+LONEPAIR relative LPMC O31 C31 C3  distance 0.35 angle 110.9 dihe  91.0
+LONEPAIR relative LPMD O31 C31 C3  distance 0.35 angle 110.9 dihe 269.0
