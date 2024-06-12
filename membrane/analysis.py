@@ -77,6 +77,7 @@ class InterdigitationAnalysis:
         r = np.unique(strong_resids, return_counts=True)
         boolArray = (r[1] == 6)
         strong_resids = r[0][boolArray]
+        # strong_resids = r[0]
         return strong_resids
 
     def calculate_densities_for_resids(self, trio_pos, resids, strong_resids, groups, pbc, bins):
@@ -111,8 +112,8 @@ class InterdigitationAnalysis:
         resids = groups['trio'].resids
         numP = self.u.select_atoms('name P').n_atoms
         for ts in self.u.trajectory[b:e]:
-            if int(ts.time / 1000) % 1000 == 0:
-                print("analyzing %d us.... " % (ts.time / 1000 / 1000))
+            # if int(ts.time / 1000) % 1000 == 0:
+            #     print("analyzing %d us.... " % (ts.time / 1000 / 1000))
             pbc = self.u.dimensions
             bins = np.linspace(0, pbc[2], nbins + 1)
             dz = bins[1] - bins[0]
